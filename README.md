@@ -1,6 +1,6 @@
 # Hola, soy Wenceslao Maldonado 👋
 
-**Desarrollador Full-Stack Junior** · Angular · NestJS · TypeScript · PostgreSQL / MySQL
+**Desarrollador Full-Stack Junior** · Angular · NestJS · TypeScript · PostgreSQL / MySQL 
 📍 Lanzarote, Islas Canarias · 🇬🇧 Inglés B2 (Cambridge)
 
 <a href="https://wenmaldo7-design.github.io"><img src="https://img.shields.io/badge/🚀_Ver_mi_portfolio-wenmaldo7--design.github.io-ffb547?style=for-the-badge&labelColor=05070f" alt="Ver mi portfolio"></a>
